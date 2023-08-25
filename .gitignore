@@ -1,7 +1,9 @@
 # Generated during tests
 pytestdebug.log
 tmp/
-
+cwl-v1.2-1.2.1_proposed/
+cwl-conformance-venv/
+.vscode
 # Python temps
 __pycache__/
 *.py[cod]
